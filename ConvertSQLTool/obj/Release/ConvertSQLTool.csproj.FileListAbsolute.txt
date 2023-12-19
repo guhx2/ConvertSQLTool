@@ -1,0 +1,10 @@
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\bin\Release\ConvertSQLTool.exe.config
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\bin\Release\ConvertSQLTool.exe
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\bin\Release\ConvertSQLTool.pdb
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\obj\Release\ConvertSQLTool.ConvertSQLTool.resources
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\obj\Release\ConvertSQLTool.Properties.Resources.resources
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\obj\Release\ConvertSQLTool.csproj.GenerateResource.cache
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\obj\Release\ConvertSQLTool.csproj.CoreCompileInputs.cache
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\obj\Release\ConvertSQLTool.exe
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\obj\Release\ConvertSQLTool.pdb
+F:\clientApp\ConvertSQLTool\ConvertSQLTool\obj\Release\ConvertSQLTool.csprojAssemblyReference.cache
